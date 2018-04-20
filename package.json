@@ -1,0 +1,23 @@
+{
+  "name": "signpost-loader",
+  "version": "1.0.0",
+  "description": "add signpost to content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bukuta/signpost-loader.git"
+  },
+  "keywords": [
+    "develop",
+    "style"
+  ],
+  "author": "bukuta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bukuta/signpost-loader/issues"
+  },
+  "homepage": "https://github.com/bukuta/signpost-loader#readme"
+}
