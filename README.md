@@ -10,3 +10,6 @@
   },
 }
 ```
+
+## 效果
+![效果](https://github.com/bukuta/signpost-loader/blob/master/images/sc_20180420154159.png)
